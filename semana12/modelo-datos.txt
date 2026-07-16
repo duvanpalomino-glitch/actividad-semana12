@@ -1,0 +1,15 @@
+Entidad: Usuario
+ID_Usuario: 111111111
+Nombre_Completo: duvan
+Tipo_Documento: cc
+Correo_Electronico: ejemplo@gmail.com
+Telefono:111 111 0000
+
+Entidad: Peticion
+ID_Peticion:2142123123
+ID_Usuario:1111111111
+Categoria:salud
+Descripcion:dolor de pie
+Fecha_Creacion: 23-08-2003
+Fecha_Limite:23-08-2004
+Estado:en proceso

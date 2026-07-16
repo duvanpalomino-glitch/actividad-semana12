@@ -1,0 +1,6 @@
+-Formulario Petición (Webhook/Form): Crea una página web básica donde el ciudadano introduce su nombre,
+correo, categoría del problema y descripción. Al dar clic en "Enviar", se disparan los siguientes pasos.
+-Redactar Plantilla (Set Node): Toma las respuestas del usuario y las introduce automáticamente dentro de
+un formato de texto legal predefinido, generando el asunto y el cuerpo del mensaje.
+-Enviar a Entidad (Email Node): Envía de forma inmediata el documento redactado al correo oficial de la
+entidad pública correspondiente.

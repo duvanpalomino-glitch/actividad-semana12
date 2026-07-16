@@ -1,0 +1,5 @@
+Paso 1: Selección del problema.
+Paso 2: Personalización del caso.
+Paso 3: Generación y envío.
+Paso 4: Seguimiento automático.
+Paso 5: Alerta por silencio administrativo.

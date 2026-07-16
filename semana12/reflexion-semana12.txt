@@ -1,0 +1,10 @@
+lo que aprendi en este curso en el uso de la tecnología en este ámbito transforma la relación entre el
+ciudadano y el Estado, pasando de un rol pasivo a un rol activo y fiscalizador, tambien eliminan barreras
+técnicas y jurídicas, Transparencia y rendición de cuentas, Coordinación y movilización colectiva,
+Eficiencia operativa en la gestión comunitaria.
+Reducción de costos: Elimina la necesidad de transportarse físicamente a sedes gubernamentales para
+radicar documentos.
+Flujos de trabajo optimizados: Automatiza el envío de alertas mediante bots (como n8n, WhatsApp o Telegram)
+a los líderes del barrio.
+Históricos digitales: Almacena un archivo ordenado de las batallas legales y logros conseguidos por la
+comunidad.
